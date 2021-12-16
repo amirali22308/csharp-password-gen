@@ -1,0 +1,15 @@
+D:\source\pasword_genaratore\pasword_genaratore\bin\Debug\pasword_genaratore.exe.config
+D:\source\pasword_genaratore\pasword_genaratore\bin\Debug\pasword_genaratore.exe
+D:\source\pasword_genaratore\pasword_genaratore\bin\Debug\pasword_genaratore.pdb
+D:\source\pasword_genaratore\pasword_genaratore\obj\Debug\pasword_genaratore.csprojAssemblyReference.cache
+D:\source\pasword_genaratore\pasword_genaratore\obj\Debug\pasword_genaratore.Form1.resources
+D:\source\pasword_genaratore\pasword_genaratore\obj\Debug\pasword_genaratore.Properties.Resources.resources
+D:\source\pasword_genaratore\pasword_genaratore\obj\Debug\pasword_genaratore.csproj.GenerateResource.cache
+D:\source\pasword_genaratore\pasword_genaratore\obj\Debug\pasword_genaratore.csproj.CoreCompileInputs.cache
+D:\source\pasword_genaratore\pasword_genaratore\obj\Debug\pasword_genaratore.exe
+D:\source\pasword_genaratore\pasword_genaratore\obj\Debug\pasword_genaratore.pdb
+D:\source\pasword_genaratore\pasword_genaratore\obj\Debug\pasword_genaratore.reader.resources
+D:\source\pasword_genaratore\pasword_genaratore\bin\Debug\pasword_genaratore.exe.manifest
+D:\source\pasword_genaratore\pasword_genaratore\bin\Debug\pasword_genaratore.application
+D:\source\pasword_genaratore\pasword_genaratore\obj\Debug\pasword_genaratore.exe.manifest
+D:\source\pasword_genaratore\pasword_genaratore\obj\Debug\pasword_genaratore.application
